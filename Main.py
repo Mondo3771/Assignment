@@ -26,5 +26,6 @@ for i in range(len(labels)):
     labels[i] = [int(part) for part in parts if part]
 
 print(labels)
+print(len)
 # print(data)
 
