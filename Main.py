@@ -25,7 +25,6 @@ for i in range(len(labels)):
     # Convert each part to an integer and replace the original line with the list of integers
     labels[i] = [int(part) for part in parts if part]
 
-print(labels)
-print(len)
-# print(data)
+print(parts)
+
 
